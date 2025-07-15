@@ -1,0 +1,3 @@
+FirstName,LastName,Age,username,password,email
+Cayden,Calo,21,cayden_calo,123,caydencalo@gmail.com
+Caleb,Calo,17,caleb_calo,#Iwantadog3,calebcalo@gmail.com
