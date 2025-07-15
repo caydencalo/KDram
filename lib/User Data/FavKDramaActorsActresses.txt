@@ -1,0 +1,7 @@
+User: cayden_calo
+FavActors: Kim Soo-hyun, Park Seo-joon, Gong Yoo
+FavActresses: Kim Ji-won, Park Bo-young, Bae Suzy, Kim Yoo-jung
+
+User: caleb_calo
+FavActors: Kim Soo-hyun
+FavActresses: Lee Ji-eun
